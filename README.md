@@ -7,7 +7,7 @@
 <a href="https://github.com/LavSarkari"><img title="Language" src="https://img.shields.io/badge/Made%20with-PYTHON-1f425f.svg?v=103"></a>
 </p>
 <p align="center">
-<a href="https://github.com/LavSarkari"><img width=80% hight=10% title="P-gen" src="https://github.com/LavSarkari/Kairav/blob/main/core/20210310_231606_0000-removebg-preview.png"></a>
+<a href="https://github.com/LavSarkari"><img width=80% hight=10% title="Kairav" src="https://github.com/LavSarkari/Kairav/blob/main/core/20210310_231606_0000-removebg-preview.png"></a>
 </p>
 <p align="center">
 <br>
