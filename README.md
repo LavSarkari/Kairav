@@ -48,11 +48,11 @@ For now, some sub tool uses API mode, which is based on hacker target API which 
 
 ## INSTALLATION [Termux] :
 
-* `git clone https://github.com/CYBERNIKUNJ/DNA-RECON`
-* `cd DNA-RECON`
+* `git clone https://github.com/LavSarkari/Kairav`
+* `cd Kairav`
 * `chmod +x *`
 * `./install.sh`
-* `Just Type :- DNA-recon`
+* `Just Type :- Kairav`
 
 ## SCREEN SHOTS [Termux]
 
