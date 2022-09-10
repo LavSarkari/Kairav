@@ -13,8 +13,8 @@
 <br>
 <a href="https://lavsarkari.github.io/Kairav"><img title="Website" src="https://img.shields.io/badge/Official Website-red?style=for-the-badge&logo=website"></a>
 <br>
-<a href="https://github.com/cybernikunj"><img title="YouTube" src="https://img.shields.io/badge/LavSarkari-green?style=for-the-badge&logo=github"></a>
-<a href="https://www.instagram.com/_.geniusman._/"><img title="GeniusMan" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
+<a href="https://github.com/lavsarkari"><img title="GitHub" src="https://img.shields.io/badge/LavSarkari-green?style=for-the-badge&logo=github"></a>
+<a href="https://www.instagram.com/cyber_tantrik/"><img title="meh-" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 <br>
 </p>
 
